@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(https://c4.wallpaperflare.com/wallpaper/726/859/736/just-sky-blue-blur-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sel{
+
+margin-left: 650px;
+margin-top: 200px;
+}
+
+#my-select{
+    width: 340px;
+    height: 50px;
+    border: none;
+    padding-left: 10px;
+    font-size: 15px;
+    border-radius: 13px;
+}
+
+.opti{
+    
+font-size: 20px;
+padding-top: 30px;
+}
